@@ -1,0 +1,88 @@
+﻿@model Restaurant.ViewModels.SystemSettingViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<div class="pagetitle">
+      
+      <nav>
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a asp-controller="SystemSetting" asp-action="index">System Setting</a></li>
+           
+          <li class="breadcrumb-item active">Create</li>
+          
+        </ol>
+      </nav>
+    </div>
+<section class="section">
+      <div class="row">
+        <div class="col-lg-12">
+
+          <div class="card">
+            <div class="card-body">
+        <form asp-action="Create" enctype="multipart/form-data"  class="row mb-3"> 
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row mb-1">
+                <label asp-for="LogoImage" class="control-label"></label>
+                <input asp-for="LogoImage" class="form-control" />
+                <span asp-validation-for="LogoImage" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="LogoImage2" class="control-label"></label>
+                <input asp-for="LogoImage2" class="form-control" />
+                <span asp-validation-for="LogoImage2" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="SystemSettingCopyright" class="control-label"></label>
+                <input asp-for="SystemSettingCopyright" class="form-control" />
+                <span asp-validation-for="SystemSettingCopyright" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="SystemSettingWelcomeNoteTitle" class="control-label"></label>
+                <input asp-for="SystemSettingWelcomeNoteTitle" class="form-control" />
+                <span asp-validation-for="SystemSettingWelcomeNoteTitle" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="SystemSettingWelcomeNoteBreef" class="control-label"></label>
+                <input asp-for="SystemSettingWelcomeNoteBreef" class="form-control" />
+                <span asp-validation-for="SystemSettingWelcomeNoteBreef" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="SystemSettingWelcomeNoteDesc" class="control-label"></label>
+                <input asp-for="SystemSettingWelcomeNoteDesc" class="form-control" />
+                <span asp-validation-for="SystemSettingWelcomeNoteDesc" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="SystemSettingWelcomeNoteUrl" class="control-label"></label>
+                <input asp-for="SystemSettingWelcomeNoteUrl" class="form-control" />
+                <span asp-validation-for="SystemSettingWelcomeNoteUrl" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="NoteImage" class="control-label"></label>
+                <input asp-for="NoteImage" class="form-control" />
+                <span asp-validation-for="NoteImage" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="SystemSettingMapLocation" class="control-label"></label>
+                <input asp-for="SystemSettingMapLocation" class="form-control" />
+                <span asp-validation-for="SystemSettingMapLocation" class="text-danger"></span>
+            </div>
+            
+            <div  style=" direction: rtl" class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary rounded-pill" />
+                  
+                  <button asp-action="Index"  class="btn btn-primary rounded-pill" >Back to List</button>
+            </div>
+            
+        </form>
+    </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+

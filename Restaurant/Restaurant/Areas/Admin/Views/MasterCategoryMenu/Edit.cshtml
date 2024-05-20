@@ -1,0 +1,53 @@
+﻿@model RESTAURANT.Models.MasterCategoryMenu
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<h1>Edit</h1>
+
+<hr />
+<div class="pagetitle">
+      
+      <nav>
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a asp-controller="MasterCategoryMenu" asp-action="index">Master Category Menu</a></li>
+           
+          <li class="breadcrumb-item active">Edit</li>
+          
+        </ol>
+      </nav>
+    </div>
+<hr />
+ <section class="section">
+      <div class="row">
+        <div class="col-lg-12">
+
+          <div class="card">
+            <div class="card-body">
+              
+
+        <form asp-action="Edit" class="row mb-3">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MasterCategoryMenuId" />
+            <div class="row mb-1">
+                <label asp-for="MasterCategoryMenuName" class="control-label"></label>
+                <input asp-for="MasterCategoryMenuName" class="form-control" />
+                <span asp-validation-for="MasterCategoryMenuName" class="text-danger"></span>
+            </div>
+           
+            <div style=" direction: rtl" class="form-group">
+                <input type="submit" style="" value="Save" class="btn btn-primary rounded-pill" />
+                 <button asp-action="Index"   class="btn btn-primary rounded-pill" >Back to List</button>
+            </div>
+        </form>
+    </div>
+</div>
+ </div>
+          </div>
+
+            
+    </section>
+
+

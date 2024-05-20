@@ -1,0 +1,50 @@
+﻿@model RESTAURANT.Models.MasterMenu
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<div class="pagetitle">
+      
+      <nav>
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a asp-controller="MasterMenu" asp-action="index">Master  Menu</a></li>
+           
+          <li class="breadcrumb-item active">Create</li>
+          
+        </ol>
+      </nav>
+    </div>
+<section class="section">
+      <div class="row">
+        <div class="col-lg-12">
+
+          <div class="card">
+            <div class="card-body">
+        <form asp-action="Create" class="row mb-3">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row mb-1">
+                <label asp-for="MasterMenuName" class="control-label"></label>
+                <input asp-for="MasterMenuName" class="form-control" />
+                <span asp-validation-for="MasterMenuName" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="MasterMenuUrl" class="control-label"></label>
+                <input asp-for="MasterMenuUrl" class="form-control" />
+                <span asp-validation-for="MasterMenuUrl" class="text-danger"></span>
+            </div>
+            
+            <div  style=" direction: rtl" class="form-group">
+                <input type="submit" value="Create"  class="btn btn-primary rounded-pill" />
+                <button asp-action="Index"  class="btn btn-primary rounded-pill" >Back to List</button>
+            </div>
+        </form>
+   </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+

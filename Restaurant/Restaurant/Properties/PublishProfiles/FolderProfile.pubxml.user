@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\asp.net core mvc\puplish</_PublishTargetUrl>
+    <History>True|2023-01-18T13:59:16.6957350Z;True|2023-01-08T20:02:20.9863750+03:00;True|2023-01-08T18:50:52.7047414+03:00;</History>
+  </PropertyGroup>
+</Project>

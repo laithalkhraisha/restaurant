@@ -1,0 +1,51 @@
+﻿@model RESTAURANT.Models.MasterWorkingHours
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<div class="pagetitle">
+      
+      <nav>
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a asp-controller="MasterWorkingHours" asp-action="index">Master Working Hours</a></li>
+           
+          <li class="breadcrumb-item active">Edit</li>
+          
+        </ol>
+      </nav>
+    </div>
+<section class="section">
+      <div class="row">
+        <div class="col-lg-12">
+
+          <div class="card">
+            <div class="card-body">
+        <form asp-action="Edit" class="row mb-3">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MasterWorkingHoursId" />
+            <div class="row mb-1">
+                <label asp-for="MasterWorkingHoursIdName" class="control-label"></label>
+                <input asp-for="MasterWorkingHoursIdName" class="form-control" />
+                <span asp-validation-for="MasterWorkingHoursIdName" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="MasterWorkingHoursIdTimeFormTo" class="control-label"></label>
+                <input asp-for="MasterWorkingHoursIdTimeFormTo" class="form-control" />
+                <span asp-validation-for="MasterWorkingHoursIdTimeFormTo" class="text-danger"></span>
+            </div>
+          
+            <div  style=" direction: rtl" class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary rounded-pill" />
+                <button asp-action="Index"  class="btn btn-primary rounded-pill" >Back to List</button>
+            </div>
+        </form>
+   </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+

@@ -1,0 +1,420 @@
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\appsettings.Development.json
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\appsettings.json
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.exe
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.deps.json
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.runtimeconfig.json
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.runtimeconfig.dev.json
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.pdb
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Humanizer.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.AssemblyInfoInputs.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.AssemblyInfo.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.MvcApplicationPartsAssemblyInfo.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\scopedcss\bundle\Restaurant.styles.css
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\Restaurant.StaticWebAssets.Manifest.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.RazorTargetAssemblyInfo.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.csproj.CopyComplete
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\ref\Restaurant.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.pdb
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.genruntimeconfig.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.Views.dll
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.Views.pdb
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.RazorAssemblyInfo.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.RazorAssemblyInfo.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.TagHelpers.input.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.TagHelpers.output.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.RazorCoreGenerate.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.RazorTargetAssemblyInfo.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.Views.pdb
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterCategoryMenu\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterCategoryMenu\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterCategoryMenu\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\bin\Debug\net5.0\libman.json
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterContactUsInformation\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterContactUsInformation\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterContactUsInformation\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterItemMenu\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterItemMenu\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterItemMenu\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterOffer\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterOffer\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterOffer\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPartner\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPartner\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPartner\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterServices\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterServices\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterServices\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedia\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedia\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedia\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterWorkingHours\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterWorkingHours\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterWorkingHours\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionBookTable\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionBookTable\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionBookTable\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionContactUs\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionContactUs\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionContactUs\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionNewsletter\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionNewsletter\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionNewsletter\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Shared\_Layoutsub.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Home\Menu.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Home\productDetails.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Register.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Login.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layoutlog.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPeople\Index.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPeople\Create.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPeople\Edit.cshtml.g.cs
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.csproj.AssemblyReference.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\Restaurant.StaticWebAssets.Pack.cache
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\msbuild.Restaurant.Microsoft.AspNetCore.StaticWebAssets.props
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\msbuild.build.Restaurant.props
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Restaurant.props
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Restaurant.props
+C:\asp.net core mvc\asp project\prject2\Restaurant\Restaurant\obj\Debug\net5.0\refint\Restaurant.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\appsettings.Development.json
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\appsettings.json
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\libman.json
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.exe
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.deps.json
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.runtimeconfig.json
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.runtimeconfig.dev.json
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.pdb
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.Views.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Restaurant.Views.pdb
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Humanizer.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\restaurant\Restaurant\Restaurant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.csproj.AssemblyReference.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.AssemblyInfoInputs.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.AssemblyInfo.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.MvcApplicationPartsAssemblyInfo.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.RazorAssemblyInfo.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.RazorAssemblyInfo.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\scopedcss\bundle\Restaurant.styles.css
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\Restaurant.StaticWebAssets.Manifest.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\Restaurant.StaticWebAssets.Pack.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\msbuild.Restaurant.Microsoft.AspNetCore.StaticWebAssets.props
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\msbuild.build.Restaurant.props
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Restaurant.props
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Restaurant.props
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.TagHelpers.input.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.TagHelpers.output.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.RazorCoreGenerate.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Login.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Register.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterCategoryMenu\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterCategoryMenu\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterCategoryMenu\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterContactUsInformation\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterContactUsInformation\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterContactUsInformation\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterItemMenu\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterItemMenu\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterItemMenu\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterOffer\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterOffer\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterOffer\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPartner\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPartner\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPartner\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPeople\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPeople\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterPeople\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterServices\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterServices\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterServices\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedia\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedia\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedia\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterWorkingHours\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterWorkingHours\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterWorkingHours\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layoutlog.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionBookTable\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionBookTable\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionBookTable\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionContactUs\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionContactUs\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionContactUs\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionNewsletter\Create.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionNewsletter\Edit.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransactionNewsletter\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Home\Menu.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Home\productDetails.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\Shared\_Layoutsub.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.RazorTargetAssemblyInfo.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.RazorTargetAssemblyInfo.cs
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.Views.pdb
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.csproj.CopyComplete
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.dll
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\refint\Restaurant.dll
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.pdb
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\Restaurant.genruntimeconfig.cache
+C:\restaurant\Restaurant\Restaurant\obj\Debug\net5.0\ref\Restaurant.dll

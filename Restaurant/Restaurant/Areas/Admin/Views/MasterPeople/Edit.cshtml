@@ -1,0 +1,47 @@
+﻿@model Restaurant.ViewModels.MasterPeopleViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>MasterPeople</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MasterPeopleId" />
+            <div class="form-group">
+                <label asp-for="MasterPeopledec" class="control-label"></label>
+                <input asp-for="MasterPeopledec" class="form-control" />
+                <span asp-validation-for="MasterPeopledec" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MasterPeopleName" class="control-label"></label>
+                <input asp-for="MasterPeopleName" class="form-control" />
+                <span asp-validation-for="MasterPeopleName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="peopleImage" class="control-label"></label>
+                <input asp-for="peopleImage" class="form-control" />
+                <span asp-validation-for="peopleImage" class="text-danger"></span>
+            </div>
+            <div>
+                <input asp-for="MasterPeopleImageUrl" type="hidden" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="MasterPeoplejob" class="control-label"></label>
+                <input asp-for="MasterPeoplejob" class="form-control" />
+                <span asp-validation-for="MasterPeoplejob" class="text-danger"></span>
+            </div>
+           
+            <div  style=" direction: rtl" class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <button asp-action="Index"  class="btn btn-primary rounded-pill" >Back to List</button>
+            </div>
+        </form>
+    </div>
+</div>
+

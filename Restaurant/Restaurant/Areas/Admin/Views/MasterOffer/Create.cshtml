@@ -1,0 +1,62 @@
+﻿@model Restaurant.ViewModels.MasterOfferViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<div class="pagetitle">
+      
+      <nav>
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a asp-controller="MasterOffer" asp-action="index">Master Offer</a></li>
+           
+          <li class="breadcrumb-item active">Create</li>
+          
+        </ol>
+      </nav>
+    </div>
+    <section class="section">
+      <div class="row">
+        <div class="col-lg-12">
+
+          <div class="card">
+            <div class="card-body">
+        <form asp-action="Create" enctype="multipart/form-data" class="row mb-3">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div cclass="row mb-1">
+                <label asp-for="MasterOfferTitle" class="control-label"></label>
+                <input asp-for="MasterOfferTitle" class="form-control" />
+                <span asp-validation-for="MasterOfferTitle" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="MasterOfferBreef" class="control-label"></label>
+                <input asp-for="MasterOfferBreef" class="form-control" />
+                <span asp-validation-for="MasterOfferBreef" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="MasterOfferDesc" class="control-label"></label>
+                <input asp-for="MasterOfferDesc" class="form-control" />
+                <span asp-validation-for="MasterOfferDesc" class="text-danger"></span>
+            </div>
+            <div class="row mb-1">
+                <label asp-for="OfferImage" class="control-label"></label>
+                <input asp-for="OfferImage" class="form-control" />
+                <span asp-validation-for="OfferImage" class="text-danger"></span>
+            </div>
+            
+            <div  style=" direction: rtl" class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary rounded-pill" />
+                <button asp-action="Index"  class="btn btn-primary rounded-pill" >Back to List</button>
+            </div>
+        </form>
+    </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+
+

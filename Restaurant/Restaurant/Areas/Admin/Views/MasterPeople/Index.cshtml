@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Restaurant.Models.MasterPeople>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="pagetitle">
+    <h1>Master People</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item active">Master People</li>
+
+        </ol>
+    </nav>
+</div>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<section class="section">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="card">
+            <div class="card-body">
+             <div class="dataTable-top"><div class="dataTable-dropdown"><label><select class="dataTable-selector"><option value="5">5</option><option value="10" selected="">10</option><option value="15">15</option><option value="20">20</option><option value="25">25</option></select> entries per page</label></div><div class="dataTable-search"><input class="dataTable-input" placeholder="Search..." type="text"></div></div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterPeopledec)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterPeopleName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterPeopleImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterPeoplejob)
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterPeopledec)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterPeopleName)
+            </td>
+            <td>
+               <img src="~/Images/@item.MasterPeopleImageUrl" style="max-width:40px;" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterPeoplejob)
+            </td>
+           
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MasterPeopleId"><span class="glyphicon">&#x270f;</span></a> |
+                 <a  asp-route-ActiveId="@item.MasterPeopleId">
+                 @if ( item.IsActive==true)
+                {
+                   
+                     <img src="~/images.png"  style="max-width:30px;" />
+                }
+                else if( item.IsActive==false)
+                {
+                     <img src="~/status-icon-png-29.jpg"  style="max-width:30px;" />
+                     
+                } 
+                </a> |
+                 <a  class="btndelete" href="#" data-toggle="modal" data-target="#exampleModal" data-path="@Url.ActionLink("Index","MasterOffer",new{DeleteId=@item.MasterPeopleId})"> <img src="~/images(1).png"  style="max-width:30px;" /> </a> 
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+          </div>
+
+        </div>
+      </div>
+    </section>

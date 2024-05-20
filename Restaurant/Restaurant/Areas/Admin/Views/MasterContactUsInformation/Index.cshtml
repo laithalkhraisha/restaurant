@@ -1,0 +1,94 @@
+﻿@model IEnumerable<RESTAURANT.Models.MasterContactUsInformation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="pagetitle">
+    <h1>Master Category Menu</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item active">ContactUs Information</li>
+
+        </ol>
+    </nav>
+</div>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+ <section class="section">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="card">
+            <div class="card-body">
+             <div class="dataTable-top"><div class="dataTable-dropdown"><label><select class="dataTable-selector"><option value="5">5</option><option value="10" selected="">10</option><option value="15">15</option><option value="20">20</option><option value="25">25</option></select> entries per page</label></div><div class="dataTable-search"><input class="dataTable-input" placeholder="Search..." type="text"></div></div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterContactUsInformationIdesc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterContactUsInformationRedirect)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MasterContactUsInformationImageUrl)
+            </th> 
+            <th>
+                @Html.DisplayNameFor(model => model.Icon)
+            </th> 
+            <th>
+                OPTION
+            </th>
+            
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterContactUsInformationIdesc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MasterContactUsInformationRedirect)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.MasterContactUsInformationImageUrl)*@
+
+                 <img  src="~/Images/@item.MasterContactUsInformationImageUrl" style="max-width:30px;" />
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Icon)
+            </td>
+           
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MasterContactUsInformationId"><span class="glyphicon">&#x270f;</span></a> |
+                <a  asp-route-ActiveId="@item.MasterContactUsInformationId">
+                 @if ( item.IsActive==true)
+                {
+                   
+                     <img src="~/images.png"  style="max-width:30px;" />
+                }
+                else if( item.IsActive==false)
+                {
+                     <img src="~/status-icon-png-29.jpg"  style="max-width:30px;" />
+                     
+                } 
+                </a> |
+                <a  class="btndelete" href="#" data-toggle="modal" data-target="#exampleModal" data-path="@Url.ActionLink("Index","MasterContactUsInformation",new{DeleteId=@item.MasterContactUsInformationId})"> <img src="~/images(1).png"  style="max-width:30px;" /> </a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+          </div>
+
+        </div>
+      </div>
+    </section>
